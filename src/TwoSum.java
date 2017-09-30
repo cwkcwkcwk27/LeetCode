@@ -18,7 +18,7 @@ public class TwoSum {
             }
             map.put(nums[i],i);
         }
-        
+        //test
         return null;
         
     }
